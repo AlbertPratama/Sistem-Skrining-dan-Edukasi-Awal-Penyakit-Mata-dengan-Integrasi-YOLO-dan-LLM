@@ -13,4 +13,9 @@ build/
 *.iml
 
 # models 
-finetuned_models/
+# finetuned_models/tune_yolov8m_120-epochs.zip
+# finetuned_models/yolov8 medium epochs 120.zip
+finetuned_models/tune_yolov8l_40-epochs.zip
+finetuned_models/yolov8 medium epochs 200.zip
+finetuned_models/yolov8m_200.zip
+finetuned_models/yolov8n_40_epochs.zip
